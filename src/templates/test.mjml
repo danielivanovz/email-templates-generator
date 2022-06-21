@@ -1,0 +1,20 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-table>
+          <tr style="border-bottom:1px solid #ecedee;text-align:left;padding:15px 0;">
+            <th style="padding: 0 15px 0 0;">A</th>
+            <th style="padding: 0 15px;">B</th>
+            <th style="padding: 0 0 0 15px;">C</th>
+          </tr>
+          <tr>
+            <td style="padding: 0 15px 0 0;">1</td>
+            <td style="padding: 0 15px;">2</td>
+            <td style="padding: 0 0 0 15px;">3</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
